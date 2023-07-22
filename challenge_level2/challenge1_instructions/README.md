@@ -1,0 +1,1 @@
+rv32i so shouldn't generate rv64m extension instructions
