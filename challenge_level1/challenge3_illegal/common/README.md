@@ -1,0 +1,1 @@
+In the exception handeller, PC needs to be incremented, otherwise stuck at illegal instruction and keeps going into handeller. 

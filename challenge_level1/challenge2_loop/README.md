@@ -1,0 +1,1 @@
+3 test cases in total, need to decrement the number of remaining tests after each one. Then exit the loop if there are 0 tests remaining. 
